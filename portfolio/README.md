@@ -1,4 +1,4 @@
-# Mehmet Temizkan's Portfolio Page
+# DANTECH'S Portfolio Page
 
 <p>This repo contains the portfolio site I built with laravel.</p>
 
